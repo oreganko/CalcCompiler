@@ -1,0 +1,4 @@
+int D = 3 + 2 ;
+int P = 5 + 5 ;
+int W = 3 + D;
+W = P + D;
